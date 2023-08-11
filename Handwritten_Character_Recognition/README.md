@@ -5,6 +5,7 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Data set](#data set)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Model Overview](#model-overview)
@@ -14,6 +15,10 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
 ## Introduction
 
 The ability to recognize and classify handwritten characters is a fundamental task in the field of image recognition and artificial intelligence. This repository showcases a CNN-based solution for achieving accurate handwritten character recognition. The model is trained on a large dataset of labeled handwritten characters and is capable of predicting the alphabet corresponding to an input image.
+
+## Data set
+
+This data set is taken from the Kaggle platform. It contains a large number of English characters in an Excel sheet.
 
 ### Prerequisites
 - NumPy
