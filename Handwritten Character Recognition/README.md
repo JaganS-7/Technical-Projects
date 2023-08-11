@@ -5,7 +5,7 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
 ## Table of Contents
 
 - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Model Overview](#model-overview)
 - [Results](#results)
