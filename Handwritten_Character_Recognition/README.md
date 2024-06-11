@@ -14,7 +14,7 @@ This repository contains a Python implementation of a Convolutional Neural Netwo
 
 ## Introduction
 
-The ability to recognize and classify handwritten characters is a fundamental task in image recognition and artificial intelligence. This repository showcases a CNN-based solution for achieving accurate handwritten character recognition. The model is trained on a large dataset of labeled handwritten characters and can predict the alphabet corresponding to an input image.
+Recognizing and classifying handwritten characters is a fundamental task in image recognition and artificial intelligence. This repository showcases a CNN-based solution for achieving accurate handwritten character recognition. The model is trained on a large dataset of labeled handwritten characters and can predict the alphabet corresponding to an input image.
 
 ## Data set
 
@@ -32,7 +32,7 @@ This data set is taken from the Kaggle platform. It contains a large number of E
 This project demonstrates the entire process of creating, training, and evaluating the CNN model for handwritten character recognition. It includes visualizations that help you understand the model's behavior and performance. You can also use a custom image to test the model's prediction capabilities
 
 ## Model Overview
-The CNN model architecture is designed to capture features from handwritten character images efficiently. It consists of multiple convolutional layers followed by max-pooling layers to extract and downsample features. The model also includes fully connected layers for classification and an output layer with a softmax activation function.
+The CNN model architecture is designed to efficiently capture features from handwritten character images. It consists of multiple convolutional layers and max-pooling layers to extract and downsample features. The model also includes fully connected layers for classification and an output layer with a softmax activation function.
 
 ## Results
 The script displays the training progress over epochs, showing accuracy and loss values for both training and testing datasets. The accuracy of the model on the testing dataset indicates its performance in correctly classifying unseen data.
