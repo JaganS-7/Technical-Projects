@@ -10,8 +10,10 @@ This repository contains MATLAB code for detecting series arc faults (SAF) in DC
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Dependencies](#dependencies)
+- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [Note](note)
+
 
 ## Introduction
 
@@ -28,6 +30,14 @@ SAFs are high-power discharges of electricity between two or more conductors due
 1. MATLAB
 2. Signal Processing Toolbox
 3. Wavelet Toolbox
+## Results
+The proposed algorithm was executed over ten times (10 iterations), consistently
+yielding identical results with each test. This uniformity across multiple trials suggests
+a success rate of approximately 100% for the current data acquired under a rheostat load
+within the DC network.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
+
+## Note
+This project involves a load such as a rheostat. So present algorithm works for this load. But changes may apply in the code for other loads such as motor, etc...
