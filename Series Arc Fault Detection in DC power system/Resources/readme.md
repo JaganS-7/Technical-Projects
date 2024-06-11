@@ -1,1 +1,1 @@
-Find the images, which illustrate few aspects of the project 
+Find the images, which illustrate a few aspects of the project 
