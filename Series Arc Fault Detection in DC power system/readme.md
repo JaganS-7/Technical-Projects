@@ -28,6 +28,6 @@ SAFs are high-power discharges of electricity between two or more conductors due
 1. MATLAB
 2. Signal Processing Toolbox
 3. Wavelet Toolbox
-4. 
+
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
